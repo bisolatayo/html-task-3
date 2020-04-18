@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="em">
+<head>
+    <meta charset="UTF-8">
+    <title>
+oyediran abisola omotayo
+    </title>
+    <style>
+        body{background-image: image-set();
+        background-color:rgb(255, 255, 255);
+        height: 2800x;
+        padding: 10px 400px;
+        margin-right: 3x;
+        margin-top: 0;
+        border-style: double; 
+        border-width: 10px; 
+        border-radius: 50px;
+        border-top-color: darksalmon;
+        border-block-end-color: darkslategray;
+        background-image: url("dogs.png");
+    background-position-y: top;
+    color: black;
+     font-family: 'Times New Roman', Times, serif;
+     font-style: normal;
+     font-weight: bolder;
+     font-size: 100%;}
+    div {background-color: rgb(153, 153, 153); word-wrap: normal;
+    width: 500px; height: 1300px; bottom: inherit; padding: 10px;
+
+       }
+        span{width: 200%; height: 3x; 
+        
+        background-color: rgb(187, 131, 184); }
+        h2{ text-align: center;}
+        footer{
+            display: list-item;
+            color: rgb(173, 93, 169)s;
+        background-color: rgb(173, 93, 169);
+        }
+        img{
+        width: 300px;
+      padding: 20px 100px;
+        height: 300px;
+        }
+        h3{
+            text-align: center; 
+        }
+        div{word-wrap: normal; background-color: rgb(204, 248, 248);
+
+        }
+    </style>
+</head>
+<body>
+    <img src="me.jpg" alt="me" align="right">
+    <div id="personal profile">
+    <h1><strong><span>Hello world! <br>I'M OYEDIRAN ABISOLA OMOTAYO <br>
+            web developer and UI/UX designer</span></strong></h1>
+    
+<p> I graduated from the university recently and i'm presently doing my <strong>NYSC</strong> in  oibadanyo state. I started learning how to code recently,and my skills have improved greatly since i signed up for <strong>StartNG internship</strong>.My intrest and hobbies include the following. </p>
+<ul>
+    <li>traveling</li>
+    <li>tech and new innovations</li>
+    <li>learning new things</li>
+    <li>cooking and baking</li>
+</ul>
+<p>I also love animals, my favorite is dog. Aside from being a tech newbie, i'm also a fashion designer.</p>
+<h2><SPAN>bio data</SPAN></h2>
+<P>STATE OF ORIGIN:                OSUN STATE</P>
+<p>HOMETOWN:                        OKUKU ODO-OTIN LGA</p>
+<P>ADDRESS:                         NO 66 AGBOOLA STREET, IWO ROAD IBADAN, IBADAN NIGERIA. </P>
+<P>OCCUPATION:                      STUDENT</P>
+<P>DATE OF BIRTH:                   10TH OF JULY 1996</P>
+
+<p>SLACK ID:                         BISOLATAYO</p>
+
+<h3><span> skills and experience</span></h3>
+<p> FRONT-END</p>
+<P>UI/UX</P>
+<p>SPATIAL ANALYSIS</p>
+<p>GRAPHIC DESIGN</p>
+
+    </div>
+    <footer>
+<p>contact information:<a href="mailto:bisolatayo08@gmail.com">bisolatayo08@gmail.com</a></p>
+  <p>phone: 08137310215</p>  
+</footer>
+
+</body>
+
+</html>
